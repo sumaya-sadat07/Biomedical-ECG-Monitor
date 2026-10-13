@@ -22,8 +22,4 @@ The application functions as a web-based biomedical monitoring device that rende
 - **Graphics:** HTML5 Canvas 2D Context
 - **Audio:** Web Audio API
 
-## Getting Started
-To run this project locally, clone the repository and open `index.html` in any modern web browser:
-
-```bash
 git clone [https://sumaya-sadat07.github.io/Biomedical-ECG-Monitor.git](https://sumaya-sadat07.github.io/Biomedical-ECG-Monitor.git)
