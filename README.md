@@ -22,4 +22,3 @@ The application functions as a web-based biomedical monitoring device that rende
 - **Graphics:** HTML5 Canvas 2D Context
 - **Audio:** Web Audio API
 
-git clone [https://sumaya-sadat07.github.io/Biomedical-ECG-Monitor.git](https://sumaya-sadat07.github.io/Biomedical-ECG-Monitor.git)
